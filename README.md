@@ -1,4 +1,4 @@
-[![Sudo's GitHub Banner](./assets/Banner.png)]
+![Sudo's GitHub Banner](./assets/Banner.png)
 
 Yo 👋
 
@@ -9,7 +9,7 @@ My name is Sudo - I'm a tech enthusiast and Twitch streamer. I have a passion fo
 <a href="https://github.com/sudoxyz">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoxyz&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+<br>
 <a href="https://github.com/sudoxyz">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sudoxyz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Sudo's GitHub Stats" />
 </a>
