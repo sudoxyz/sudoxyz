@@ -2,7 +2,7 @@
 
 Yo 👋
 
-My name is Ethan - I'm a tech enthusiast and Twitch streamer. I have a passion for full-stack development, pen-testing and tinkering. I hope to get a job in web-development or electrical engineering in the future - I'm currently doing English and math GCSEs online.
+My name is Ethan - I'm a tech enthusiast and Twitch streamer. I have a passion for full-stack development, pen-testing and tinkering. I hope to get a job in web-development or electrical engineering in the future.
 
 ## 📈 GitHub Stats
 
