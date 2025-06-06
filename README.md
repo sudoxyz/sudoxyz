@@ -11,11 +11,11 @@
 <br>
 
 
-👋 Hello! I'm Ethan a passionate Full stack dev / Cyber Security enthusiast based in the UK.
+👋 Hello! I'm Ethan, a passionate Full-stack dev / Cyber Security enthusiast based in the UK.
 
 🧱 With a solid foundation in C++, JavaScript, HTML, CSS, React.js, and Dreamweaver, I thrive in creating dynamic and visually appealing web applications. I'm also diving into the world of IT automation with my job at Gamer Tech LTD.
 
-🔒 I have a very keen interest in cybersecurity, particularly in IoT and embedded systems.  I have been using Linux for the past 7 years starting from an old laptop to my current Proxmox based homelab that I use for reverse engineering as well as a fully functional honeypot for capturing new malware samples. I'm actively seeking opportunities to transition into a cybersecurity career.  
+🔒 I have a very keen interest in cybersecurity, particularly in IoT and embedded systems.  I have been using Linux for the past 8 years, starting from an old laptop to my current Proxmox based homelab that I use for reverse engineering as well as a fully functional honeypot for capturing new malware samples. I'm actively seeking opportunities to transition into a cybersecurity career.  
 
 ## 📈 GitHub Stats
 
