@@ -40,8 +40,9 @@
 
 <h2 align="center">📈 Stats</h2>
 
-
 <div align="center">
+	
+  ![](https://komarev.com/ghpvc/?username=sudoxyz)<br>
   <img src="https://github-readme-stats.vercel.app/api?username=sudoxyz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudoxyz&locale=en&hide_title=true&layout=compact&card_width=325&langs_count=5&theme=nord&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
