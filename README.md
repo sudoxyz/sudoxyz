@@ -21,10 +21,6 @@
 
 <div>
     <a href="https://github.com/sudoxyz">
-      <img src="https://github-readme-stats.vercel.app/api?username=sudoxyz&theme=dark&hide_border=false&include_all_commits=false&count_private=true">
-    </a>
-  <br>
-    <a href="https://github.com/sudoxyz">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoxyz&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
     </a>
 </div>
